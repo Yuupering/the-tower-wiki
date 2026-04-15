@@ -5,7 +5,7 @@ coverY: 0
 
 # 환영합니다
 
-반야생 RPG The Tower의 세계에 오신것을 진심으로 환영합니다.
+반야생 MMORPG The Tower의 세계에 오신것을 진심으로 환영합니다.
 
 
 
