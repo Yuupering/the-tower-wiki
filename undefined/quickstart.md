@@ -17,7 +17,8 @@ description: 해당 페이지는 서버의 실행 및 기초 설정에 대해 �
 
 <figure><img src="../.gitbook/assets/캡처 (38).PNG" alt=""><figcaption></figcaption></figure>
 
-이후 드래그 앤 드롭으로 <mark style="color:yellow;">**OptiFine\_1.20.1\_HD\_U\_I6**</mark> 파일과 <mark style="color:yellow;">**ttutils**</mark> 파일을런쳐에 넣습니다.
+.\
+\_U\_I6**</mark> 파일과 <mark style="color:yellow;">**ttutils**</mark> 파일을런쳐에 넣습니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2026-03-17 184405.png" alt=""><figcaption></figcaption></figure>
 
