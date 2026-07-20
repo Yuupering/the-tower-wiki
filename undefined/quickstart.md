@@ -6,7 +6,10 @@ description: 해당 페이지는 서버의 실행 및 기초 설정에 대해 �
 
 디스코드 설치 안내 채널의 <mark style="color:yellow;">**The Tower Linker-setup-1.0.0.exe**</mark> 파일을 설치 및 실행합니다.
 
-이후, 설치 안내 채널의 <mark style="color:yellow;">**OptiFine\_1.20.1\_HD\_U\_I6**</mark> 파일과 모드-테스트빌드-배포 채널의 <mark style="color:yellow;">**ttutils**</mark>의최신 배포버전도 다운로드 합니다.
+26/07/20 부 수정) RAM 설정만 해주시면 됩니다!
+
+그리고 play 눌러주시면 관련 된 파일 전부 자동 설치 됩니다!\
+.1\_HD\_U\_I6**</mark> 파일과 모드-테스트빌드-배포 채널의 <mark style="color:yellow;">**ttutils**</mark>의최신 배포버전도 다운로드 합니다.
 
 설치가 완료 된 이후 우측 상단의 톱니바퀴를 누른 다음 Mods 설정을 클릭합니다.
 
