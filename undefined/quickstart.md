@@ -22,7 +22,8 @@ description: 해당 페이지는 서버의 실행 및 기초 설정에 대해 �
 
 <figure><img src="../.gitbook/assets/스크린샷 2026-03-17 184405.png" alt=""><figcaption></figcaption></figure>
 
-Mods에 <mark style="color:yellow;">**OptiFine\_1.20.1\_HD\_U\_I6.jar**</mark> 파일을 넣고난 이후 Java 설정에 들어가 RAM설정을 합니다.
+Java 설정에 들어가 RAM설정을 합니다.\
+**</mark> 파일을 넣고난 이후 Java 설정에 들어가 RAM설정을 합니다.
 
 <figure><img src="../.gitbook/assets/캡처 (40).PNG" alt=""><figcaption></figcaption></figure>
 
